@@ -6,4 +6,4 @@
 
 ## Project Schedule
 
-[Project Schedule](https://github.com/cu-ecen-aeld/final-project-Suhas-Reddy-S/wiki/_new)
+[Project Schedule](https://github.com/users/krishnasuhagiya29/projects/1/views/1)
