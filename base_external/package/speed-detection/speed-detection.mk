@@ -5,7 +5,7 @@
 ##############################################################
 
 
-SPEED_DETECTION_VERSION = 67a43f1e75e6d9f7e11ed53794f00a32677aeb21
+SPEED_DETECTION_VERSION = 2367043864612740aefaad9723e4aa941656a5ed
 SPEED_DETECTION_SITE = git@github.com:krishnasuhagiya29/final-project-assignment-krishna-suhas.git
 SPEED_DETECTION_SITE_METHOD = git
 SPEED_DETECTION_GIT_SUBMODULES = YES
