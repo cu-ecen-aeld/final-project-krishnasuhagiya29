@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-[Project Overview](https://github.com/cu-ecen-aeld/final-project-Suhas-Reddy-S/wiki/Project-Overview)
+[Project Overview](https://github.com/krishnasuhagiya29/final-project-assignment-krishna-suhas/wiki/Project-Overview)
 
 ## Project Schedule
 
